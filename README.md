@@ -3,7 +3,7 @@
 <img src="https://github.com/rafa543/Pizzaria/blob/main/images/pizza.png" width="100px" />
 Projeto feito para treina habilidades front-end como html, css, e javascript
 
-https://rafa543.github.io/Pizzaria/
+## https://rafa543.github.io/Pizzaria/
 
  
 ## Technology 
